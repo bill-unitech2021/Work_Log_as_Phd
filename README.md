@@ -11,6 +11,7 @@
 
 ### **Challenges**
 
+* Follow up with 'use case' and 'test case' construction
 * Seriously move forward with Paper_1's progress
 
 ### **Next Steps**
