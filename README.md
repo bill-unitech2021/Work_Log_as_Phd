@@ -19,11 +19,13 @@
 
 ---
 
+### Daily Work Log - December 5, 2024
+- [ ]  Fill in forms for **Leipzig airport** application
 
 ### Daily Work Log - December 4, 2024
 
 - [X]  Prepare for the Smart-Pouch team meeting in the morning
-- [ ]  Fill in forms for Leipzig airport application
+
 - [ ]  Write a Confirmation Letter (as Anne requests) and send to Julia
 - [ ]  Do the Smart-Pouch team meeting in the afternoon, **1pm**
 - [ ]  DTAC team gathering at Christmas Market, **6.30pm**
