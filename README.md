@@ -7,7 +7,9 @@
 ### **Tasks Completed**
 
 * 2 coursera courses: Supply Chain Logistics, and Neural Network.
-* Project tracker for paper 1, and need to finish the project within this month.
+* Set up **Project Tracker** for paper 1
+    - need to finish the project within this month.
+* Start daily work logging
 
 ### **Challenges**
 
