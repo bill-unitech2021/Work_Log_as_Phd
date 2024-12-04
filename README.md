@@ -11,7 +11,7 @@
 
 ### **Challenges**
 
-* Follow up with 'use case' and 'test case' construction
+* Follow up with **'use case'** and **'test case'** construction
 * Seriously move forward with Paper_1's progress
 
 ### **Next Steps**
@@ -27,9 +27,9 @@
 
 - [X]  Prepare for the **Smart-Pouch team meeting** in the morning
 - [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia
-- [ ]  Do the Smart-Pouch team meeting in the afternoon, **(1pm)**
+- [X]  Do the Smart-Pouch team meeting in the afternoon, **(1pm)**
 - [ ]  DTAC team gathering at Christmas Market, **(6.30pm)**
-- [ ]  Paper reading and Writing, **(daily)**
+- [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  Fill in forms for **Leipzig airport** application
