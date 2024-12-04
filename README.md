@@ -25,13 +25,12 @@
 ### Daily Work Log - December 4, 2024
 
 - [X]  Prepare for the Smart-Pouch team meeting in the morning
-
 - [ ]  Write a Confirmation Letter (as Anne requests) and send to Julia
-- [ ]  Do the Smart-Pouch team meeting in the afternoon, **1pm**
-- [ ]  DTAC team gathering at Christmas Market, **6.30pm**
-- [ ]  Paper reading and Writing, **daily**
-- [ ]  Get familiar with the git commands, **optional**
-- [ ]  Organize everything on the Mac, **optional**
+- [ ]  Do the Smart-Pouch team meeting in the afternoon, **(1pm)**
+- [ ]  DTAC team gathering at Christmas Market, **(6.30pm)**
+- [ ]  Paper reading and Writing, **(daily)**
+- [ ]  Get familiar with the git commands, **(optional)**
+- [ ]  Organize everything on the Mac, **(optional)**
 
 ### Daily Work Log - December 3, 2024
 
