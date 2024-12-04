@@ -35,14 +35,14 @@
 
 ### Daily Work Log - December 3, 2024
 
-- [X]  Write to Julia about the DAAD submission
+- [X]  Write to Julia about the **DAAD** submission
 - [X]  Find a better MD editor
-- [X]  Start github daily work logging
-- [X]  Ask Yuzhu about the RAG job position
+- [X]  Start **github daily work logging**
+- [X]  Ask Yuzhu about the **RAG** information
 - [X]  Start Process tracking for Paper 1 on Notion
 - [X]  Upload 2 new certificates: Supply Chain Logistics, and Neural Network
 - [X]  Prepare for tomorrow's team meeting
-- [X]  Reply to Julia about confirmation letter
-- [X]  Cancel copilot subscription
+- [X]  Reply to Julia about **confirmation letter**
+- [X]  Cancel **copilot** subscription
 
 
