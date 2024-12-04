@@ -31,7 +31,8 @@
 
 - [X]  Prepare for the **Smart-Pouch team meeting** in the morning
 - [X]  Do the Smart-Pouch team meeting in the afternoon, **(1pm)**
-- [X]  DTAC team gathering at Christmas Market, **(6.30pm)**, (I got drunk with only one cup of wine :,-D)
+- [X]  DTAC team gathering at Christmas Market, **(6.30pm)**, 
+    - I got drunk at the event with only one cup of wine. (sad face)
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 
 
