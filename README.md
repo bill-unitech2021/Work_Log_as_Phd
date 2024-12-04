@@ -22,17 +22,19 @@
 
 ### Daily Work Log - December 5, 2024
 
+- [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia
+- [ ]  Fill in forms for **Leipzig airport** application
+- [ ]  Get familiar with the **git commands**, **(optional)**
+- [ ]  Organize everything on the Mac, **(optional)**
 
 ### Daily Work Log - December 4, 2024
 
 - [X]  Prepare for the **Smart-Pouch team meeting** in the morning
-- [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia
 - [X]  Do the Smart-Pouch team meeting in the afternoon, **(1pm)**
-- [ ]  DTAC team gathering at Christmas Market, **(6.30pm)**
+- [X]  DTAC team gathering at Christmas Market, **(6.30pm)**, (I got drunk with only one cup of wine :,-D)
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-- [ ]  Get familiar with the **git commands**, **(optional)**
-- [ ]  Organize everything on the Mac, **(optional)**
-- [ ]  Fill in forms for **Leipzig airport** application
+
+
 
 ### Daily Work Log - December 3, 2024
 
