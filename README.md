@@ -20,7 +20,7 @@
 ---
 
 ### Daily Work Log - December 5, 2024
-- [ ]  Fill in forms for **Leipzig airport** application
+
 
 ### Daily Work Log - December 4, 2024
 
@@ -31,6 +31,7 @@
 - [ ]  Paper reading and Writing, **(daily)**
 - [ ]  Get familiar with the git commands, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
+- [ ]  Fill in forms for **Leipzig airport** application
 
 ### Daily Work Log - December 3, 2024
 
