@@ -30,12 +30,13 @@
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
+- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 
 ### Daily Work Log - December 5, 2024
 
-- [ ]  annual assessment, **(LiaoYong)**
+- [X]  annual assessment, **(LiaoYong)**
 - [X]  modify the profile page, **(github)**
-- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [X]  **Get Recovered, take a break.**
 
 ### Daily Work Log - December 4, 2024
 
