@@ -28,7 +28,7 @@
 - [ ]  Fill in forms for **Leipzig airport** application
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
-- [ ]  write to Hendrik to reschedule for our meeting, **(optional)**
+- [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
 
 ### Daily Work Log - December 4, 2024
 
