@@ -24,22 +24,11 @@
 
 ### Daily Work Log - December 5, 2024
 
-#### **Daily**
-
-- [X]  Paper reading and Writing, work on **Paper_1**
-
-#### **Admin**
-
-- [ ]  Organize everything on the Mac
-- [ ]  write to Hendrik to reschedule for our meeting
-- [ ]  Fill in forms for **Leipzig airport** application
 - [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia
-
-#### **Optional**
-
+- [ ]  Fill in forms for **Leipzig airport** application
 - [ ]  Get familiar with the **git commands**, **(optional)**
-
-
+- [ ]  Organize everything on the Mac, **(optional)**
+- [ ]  write to Hendrik to reschedule for our meeting, **(optional)**
 
 ### Daily Work Log - December 4, 2024
 
@@ -48,6 +37,8 @@
 - [X]  DTAC team gathering at Christmas Market, **(6.30pm)**, 
     - I got drunk at the event with only one cup of wine (T_T).
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+
+
 
 ### Daily Work Log - December 3, 2024
 
