@@ -30,6 +30,7 @@
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
+- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 
 ### Daily Work Log - December 4, 2024
 
