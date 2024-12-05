@@ -22,7 +22,7 @@
 
 ---
 
-### Daily Work Log - December 5, 2024
+### Daily Work Log - December 6, 2024
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
@@ -30,8 +30,12 @@
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
+
+### Daily Work Log - December 5, 2024
+
+- [ ]  annual assessment, **(LiaoYong)**
+- [X]  modify the profile page, **(github)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
-- [ ]  modify the profile page, **(github)**
 
 ### Daily Work Log - December 4, 2024
 
