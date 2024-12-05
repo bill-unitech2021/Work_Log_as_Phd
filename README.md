@@ -24,8 +24,9 @@
 
 ### Daily Work Log - December 5, 2024
 
-- [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia
-- [ ]  Fill in forms for **Leipzig airport** application
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
+- [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
