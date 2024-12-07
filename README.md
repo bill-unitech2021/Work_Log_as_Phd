@@ -22,13 +22,21 @@
 
 ---
 
+### Daily Work Log - December 7, 2024
+
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  Get familiar with the **git commands**, **(optional)**
+- [ ]  Organize everything on the Mac, **(optional)**
+- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [ ]  Language Course： **German Speaking**, **(Book)**
+- [ ]  LLM course register, **(Taobao)**
+- [ ]  Go to **Piano Lesson**, **(R.K.)**
+
 ### Daily Work Log - December 6, 2024
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
 - [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
-- [ ]  Get familiar with the **git commands**, **(optional)**
-- [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 
