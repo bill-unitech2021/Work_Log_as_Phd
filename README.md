@@ -22,7 +22,10 @@
 
 ---
 
-### Daily Work Log - December 7, 2024
+### Daily Work Log - December 8, 2024, **Sunday**
+
+
+### Daily Work Log - December 7, 2024, **Saturday**
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
