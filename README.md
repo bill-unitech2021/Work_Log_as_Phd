@@ -30,7 +30,7 @@
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 - [ ]  Language Course： **German Speaking**, **(Book)**
 - [ ]  LLM course register, **(Taobao)**
-- [ ]  Go to **Piano Lesson**, **(R.K.)**
+- [ ]  Go to **Piano Lesson**, **(Saturday)**
 
 ### Daily Work Log - December 6, 2024
 
