@@ -24,24 +24,25 @@
 
 ### Daily Work Log - December 8, 2024, **Sunday**
 
-
-### Daily Work Log - December 7, 2024, **Saturday**
-
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
-- [ ]  Language Course： **German Speaking**, **(Book)**
-- [ ]  LLM course register, **(Taobao)**
-- [ ]  Go to **Piano Lesson**, **(Saturday)**
+- [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
+- [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
+
+### Daily Work Log - December 7, 2024, **Saturday**
+
+- [X]  Language Course： **German Speaking**, **(Book)**
+- [X]  LLM course register, **(Taobao)**
+- [X]  Go to **Piano Lesson**, **(Musik Hochschule)**
 
 ### Daily Work Log - December 6, 2024
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
-- [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
-- [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
-- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [X]  continue learning **Supply Chain Operations**, **(coursera)**
+- [X]  Language Course： **German Speaking**, **(Book)**
 
 ### Daily Work Log - December 5, 2024
 
