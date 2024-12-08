@@ -30,6 +30,7 @@
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 
 ### Daily Work Log - December 7, 2024, **Saturday**
 
@@ -39,7 +40,7 @@
 
 ### Daily Work Log - December 6, 2024
 
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
 - [X]  continue learning **Supply Chain Operations**, **(coursera)**
 - [X]  Language Course： **German Speaking**, **(Book)**
