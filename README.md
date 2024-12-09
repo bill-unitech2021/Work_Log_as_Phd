@@ -22,37 +22,38 @@
 
 ---
 
-## Daily Work Log - December 10, 2024
+# Daily Work Log - December 10, 2024
 
 ### **Main Tasks:**
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Continue Prepare for Wednesday's team meeting:
-    - [ ]  ADS-B kick-off meeting: make slides
+    - [ ]  ADS-B kick-off meeting: Make slides for XAI use case
     - [ ]  DTAC montag meeting
-    - [ ]  Smart-Pouch weekly meeting: make slides
-    - [ ]  Use-case brain storming meeting: read slides
+    - [ ]  Smart-Pouch weekly meeting: Make slides for all the methodology part
+    - [ ]  Use-case brain storming meeting: read and understand the slides from Hendrik
 
 ### **Admin:**
 
 - [ ]  Prepare documents for **Leipzig airport** application, **(admin)**
 
-### **Optional**
+### **Optional:**
 
-- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [ ]  Continue learning **Supply Chain Operations**, **(coursera)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Language Course： **German Speaking**, **(Book)**
-- [ ]  Cursor seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
+- [ ]  **Cursor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
+- [ ]  Organize everything on the Mac, **(Desktop, Document Folder)**
 
 ## Daily Work Log - December 9, 2024
 
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-- [ ]  Prepare for Wednesday's team meeting
-    - [ ]  ADS-B kick-off meeting
-    - [ ]  DTAC montag meeting
-    - [ ]  Smart-Pouch weekly meeting
-    - [ ]  Use-case brain storming meeting
+- [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [X]  Prepare for Wednesday's team meeting
+    - [X]  ADS-B kick-off meeting
+    - [X]  DTAC montag meeting
+    - [X]  Smart-Pouch weekly meeting
+    - [X]  Use-case brain storming meeting
 - [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [X]  continue learning **Supply Chain Operations**, **(coursera)**
