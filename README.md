@@ -26,6 +26,9 @@
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Prepare for Wednesday's team meeting
+    - [ ]  ADS-B kick-off meeting
+    - [ ]  DTAC montag meeting
+    - [ ]  Smart-Pouch weekly meeting
 - [ ]  Language Course： **German Speaking**, **(Book)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
