@@ -28,10 +28,10 @@
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Continue Prepare for Wednesday's team meeting:
-    - [ ]  ADS-B kick-off meeting
+    - [ ]  ADS-B kick-off meeting: make slides
     - [ ]  DTAC montag meeting
-    - [ ]  Smart-Pouch weekly meeting
-    - [ ]  Use-case brain storming meeting
+    - [ ]  Smart-Pouch weekly meeting: make slides
+    - [ ]  Use-case brain storming meeting: read slides
 
 ### **Admin:**
 
@@ -43,6 +43,7 @@
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Language Course： **German Speaking**, **(Book)**
+- [ ]  Cursor seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
 
 ## Daily Work Log - December 9, 2024
 
