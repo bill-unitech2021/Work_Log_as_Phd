@@ -56,7 +56,7 @@
 - [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [X]  continue learning **Supply Chain Operations**, **(coursera)**
-- [ ]  Get familiar with the **[Cursor Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4&t=29s)**, **(optional)**
+- [X]  Get familiar with the **[Cursor Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4&t=29s)**, **(optional)**
 
 ## Daily Work Log - December 8, 2024, **[Sunday]**
 
