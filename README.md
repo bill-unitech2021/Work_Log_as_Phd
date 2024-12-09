@@ -26,13 +26,23 @@
 
 ### **Main Tasks:**
 
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  Continue Prepare for Wednesday's team meeting:
+    - [ ]  ADS-B kick-off meeting
+    - [ ]  DTAC montag meeting
+    - [ ]  Smart-Pouch weekly meeting
+    - [ ]  Use-case brain storming meeting
 
 ### **Admin:**
 
+- [ ]  Prepare documents for **Leipzig airport** application, **(admin)**
 
 ### **Optional**
 
-
+- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [ ]  Organize everything on the Mac, **(optional)**
+- [ ]  Get familiar with the **git commands**, **(optional)**
+- [ ]  Language Course： **German Speaking**, **(Book)**
 
 ## Daily Work Log - December 9, 2024
 
@@ -42,24 +52,24 @@
     - [ ]  DTAC montag meeting
     - [ ]  Smart-Pouch weekly meeting
     - [ ]  Use-case brain storming meeting
-- [ ]  Language Course： **German Speaking**, **(Book)**
+- [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  write to Hendrik to reschedule for our meeting, **(admin)**
-- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [X]  continue learning **Supply Chain Operations**, **(coursera)**
 - [ ]  Get familiar with the **[Cursor Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4&t=29s)**, **(optional)**
 
 ## Daily Work Log - December 8, 2024, **[Sunday]**
 
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-- [ ]  Get familiar with the **git commands**, **(optional)**
-- [ ]  Organize everything on the Mac, **(optional)**
-- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+- [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [X]  Get familiar with the **git commands**, **(optional)**
+- [X]  Organize everything on the Mac, **(optional)**
+- [X]  continue learning **Supply Chain Operations**, **(coursera)**
 
 ## Daily Work Log - December 7, 2024, **[Saturday]**
 
 - [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  LLM course register, **(Taobao)**
 - [X]  Go to **Piano Lesson**, **(Musik Hochschule)**
-- [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
+- [X]  Prepare documents for **Leipzig airport** application, **(admin)**
 
 ## Daily Work Log - December 6, 2024
 
