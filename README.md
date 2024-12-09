@@ -24,8 +24,13 @@
 
 ## Daily Work Log - December 10, 2024
 
-Main Tasks:
+### **Main Tasks:**
 
+
+### **Admin:**
+
+
+### **Optional**
 
 
 
