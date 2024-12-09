@@ -47,7 +47,7 @@
 ### Daily Work Log - December 6, 2024
 
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-- [ ]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
+- [X]  Write a **Confirmation Letter** (as Anne requests) and send to Julia, **(admin)**
 - [X]  continue learning **Supply Chain Operations**, **(coursera)**
 - [X]  Language Course： **German Speaking**, **(Book)**
 
