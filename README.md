@@ -22,21 +22,27 @@
 
 ---
 
+### Daily Work Log - December 9, 2024
+
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  Prepare for Wednesday's team meeting
+- [ ]  Language Course： **German Speaking**, **(Book)**
+- [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
+- [ ]  continue learning **Supply Chain Operations**, **(coursera)**
+
 ### Daily Work Log - December 8, 2024, **Sunday**
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
-- [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
-- [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 
 ### Daily Work Log - December 7, 2024, **Saturday**
 
 - [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  LLM course register, **(Taobao)**
 - [X]  Go to **Piano Lesson**, **(Musik Hochschule)**
+- [ ]  Fill in forms for **Leipzig airport** application, **(admin)**
 
 ### Daily Work Log - December 6, 2024
 
