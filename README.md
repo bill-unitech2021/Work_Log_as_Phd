@@ -29,6 +29,7 @@
     - [ ]  ADS-B kick-off meeting
     - [ ]  DTAC montag meeting
     - [ ]  Smart-Pouch weekly meeting
+    - [ ]  Use-case brain storming meeting
 - [ ]  Language Course： **German Speaking**, **(Book)**
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
