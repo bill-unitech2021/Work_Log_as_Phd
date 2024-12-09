@@ -1,0 +1,21 @@
+To Whom It May Concern,
+
+I am writing to confirm that Mr. Jiahong Que is actively engaged in doctoral-level research under my supervision at the Frankfurt University of Applied Sciences. This letter serves as an informal confirmation of their PhD candidacy status to support their application for the DAAD Kongressreisenprogramm.  
+
+Mr. Que completed his Bachelor’s degree in Communication Engineering at Chengdu University of Information Technology and his Master’s degree in Computer Science at the University of Electronic Science and Technology of China. These academic experiences have provided him with a strong foundation in computer science, communication systems, and machine learning, which he is now applying in his doctoral research.  
+
+Currently, Mr. Que’s research focuses on enhancing air cargo logistics through the integration of advanced machine learning techniques. Specifically, his project, titled *“Enhancing Air Freight Logistics: A Machine Learning Approach for Real-Time Air Cargo Tracking”*, addresses significant challenges in cargo tracking systems, including incomplete information, inadequate data handling, and lack of system adaptability. By employing deep learning for motion detection, semi-supervised learning for automated annotation, and reinforcement learning for adaptability, his research aims to significantly improve real-time cargo tracking systems.  
+
+Mr. Que has already demonstrated his dedication to research through his contributions to the Digital Testbed Air Cargo (DTAC) project, where he has been involved in the development of systems leveraging sensor data for cargo movement analysis. This work is aligned with his PhD objectives and underpins his planned presentation at the ATRS conference.  
+
+Although his formal acceptance into the Promotionszentrum is pending, Mr. Que has clearly defined his PhD goals and research framework under my guidance. I am confident that his research will lead to significant contributions to the field of air cargo logistics and machine learning.  
+
+Should you require any further details or clarification, please do not hesitate to contact me.  
+
+Sincerely,  
+Prof. Dr. Benjamin Bierwirth
+Professor for General Business Administration,  
+with a focus on Controlling and Logistics  
+Frankfurt University of Applied Sciences  
+Email: benjamin.bierwirth@fb3.fra-uas.de  
+Phone: +49 69 1533 3853  

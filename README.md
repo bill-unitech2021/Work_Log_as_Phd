@@ -30,14 +30,14 @@
 - [ ]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 
-### Daily Work Log - December 8, 2024, **Sunday**
+### Daily Work Log - December 8, 2024, **[Sunday]**
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  continue learning **Supply Chain Operations**, **(coursera)**
 
-### Daily Work Log - December 7, 2024, **Saturday**
+### Daily Work Log - December 7, 2024, **[Saturday]**
 
 - [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  LLM course register, **(Taobao)**
