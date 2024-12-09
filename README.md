@@ -1,4 +1,4 @@
-## Jiahong's Work Log - December, 2024
+# Jiahong's Work Log - December, 2024
 
 ## **Key Accomplishments**
 
@@ -22,7 +22,7 @@
 
 ---
 
-# Daily Work Log - December 10, 2024
+## Daily Work Log - December 10, 2024
 
 ### **Main Tasks:**
 
