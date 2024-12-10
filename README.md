@@ -45,7 +45,7 @@
 ### **Optional:**
 
 - [ ]  Continue learning **Supply Chain Operations**, **(coursera)**
-- [ ]  ~~Get familiar with the **git commands**~~
+- [ ]  Get familiar with the **git commands**
 - [ ]  Language Course: **German Speaking**, **(Book)**
 - [X]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
 - [X]  Organize the Mac, **(~~Desktop~~, Document Folder, OneDrive)**
