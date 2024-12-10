@@ -47,10 +47,10 @@
 - [ ]  Continue learning **Supply Chain Operations**, **(coursera)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
-- [ ]  Language Course： **German Speaking**, **(Book)**
+- [ ]  Language Course: **German Speaking**, **(Book)**
 - [ ]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
-- [ ]  Organize the Mac, **(Desktop, Document Folder)**
-- [ ]  Set up **Eopilot for Education**, **(Github)**
+- [ ]  Organize the Mac, **(Desktop, Document Folder, OneDrive)**
+- [ ]  Set up **Copilot for Education**, **(Github)**
 
 ## Daily Work Log - December 9, 2024
 
