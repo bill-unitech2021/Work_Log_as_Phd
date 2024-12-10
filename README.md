@@ -29,7 +29,7 @@
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Continue Prepare for Wednesday's team meeting:
     - [ ]  ADS-B kick-off meeting: Make slides for XAI use case
-    - [ ]  DTAC montag meeting
+    - [ ]  DTAC montag meeting: Prepare documents
     - [ ]  Smart-Pouch weekly meeting: Make slides for all the methodology part
     - [ ]  Use-case brain storming meeting: read and understand the slides from Hendrik
 
@@ -37,14 +37,18 @@
 
 - [ ]  Prepare documents for **Leipzig airport** application, **(admin)**
 
+### **Additional Reading：**
+
+- [ ] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
+
 ### **Optional:**
 
 - [ ]  Continue learning **Supply Chain Operations**, **(coursera)**
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Language Course： **German Speaking**, **(Book)**
-- [ ]  **Cursor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
-- [ ]  Organize everything on the Mac, **(Desktop, Document Folder)**
+- [ ]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
+- [ ]  Organize the Mac, **(Desktop, Document Folder)**
 
 ## Daily Work Log - December 9, 2024
 
