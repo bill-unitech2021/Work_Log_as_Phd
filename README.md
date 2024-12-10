@@ -40,6 +40,7 @@
 ### **Additional Reading：**
 
 - [ ] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
+- [X] [Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
 
 ### **Optional:**
 
@@ -49,6 +50,7 @@
 - [ ]  Language Course： **German Speaking**, **(Book)**
 - [ ]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
 - [ ]  Organize the Mac, **(Desktop, Document Folder)**
+- [ ]  Set up **Eopilot for Education**, **(Github)**
 
 ## Daily Work Log - December 9, 2024
 
