@@ -28,10 +28,10 @@
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Continue Prepare for Wednesday's team meeting:
-    - [ ]  ADS-B kick-off meeting: Make slides for XAI use case
+    - [X]  ADS-B kick-off meeting: Make slides for XAI use case
     - [ ]  DTAC montag meeting: Prepare documents
-    - [ ]  Smart-Pouch weekly meeting: Make slides for all the methodology part
-    - [ ]  Use-case brain storming meeting: read and understand the slides from Hendrik
+    - [X]  Smart-Pouch weekly meeting: Make slides for all the methodology part
+    - [X]  Use-case brain storming meeting: read and understand the slides from Hendrik
 
 ### **Admin:**
 
@@ -48,7 +48,7 @@
 - [ ]  Get familiar with the **git commands**
 - [ ]  Language Course: **German Speaking**, **(Book)**
 - [X]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
-- [X]  Organize the Mac, **(~~Desktop~~, Document Folder, OneDrive)**
+- [X]  Organize the Mac, **(Folders: ~~Desktop, Downdloads,~~ Document, OneDrive)**
 - [ ]  Set up **Copilot for Education**, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
 
 ## Daily Work Log - December 9, 2024
