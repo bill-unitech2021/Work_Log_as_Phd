@@ -22,11 +22,21 @@
 
 ---
 
+## Daily Work Log - December 11, 2024
+
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  There are 4 meetings today:
+    - [ ]  ADS-B kick-off meeting: show the slides for XAI use case
+    - [ ]  DTAC montag meeting: submit documents
+    - [ ]  Smart-Pouch weekly meeting: show slides for the methodology workflow
+    - [ ]  Use-case brain storming meeting: discuss with and learn from Hendrik
+
+
 ## Daily Work Log - December 10, 2024
 
 ### **Main Tasks:**
 
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  Continue Prepare for Wednesday's team meeting:
     - [X]  ADS-B kick-off meeting: Make slides for XAI use case
     - [ ]  DTAC montag meeting: Prepare documents
@@ -44,8 +54,8 @@
 
 ### **Optional:**
 
-- [ ]  Continue learning **Supply Chain Operations**, **(coursera)**
-- [ ]  Get familiar with the **git commands**
+- [ ]  ~~Continue learning **Supply Chain Operations**~~, **(later)**
+- [ ]  ~~Get familiar with the **git commands**~~, **(later)**
 - [ ]  Language Course: **German Speaking**, **(Book)**
 - [X]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
 - [X]  Organize the Mac, **(Folders: ~~Desktop, Downdloads,~~ Document, OneDrive)**
