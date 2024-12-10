@@ -22,11 +22,11 @@
 
 * **Paper_1**
 
----
+
 
 ## Daily Work Log - December 11, 2024
 
-### **Main Tasks:**
+**Main Tasks:**
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  There are 4 meetings today:
@@ -35,43 +35,45 @@
     - [ ]  Smart-Pouch weekly meeting: show slides for the methodology workflow
     - [ ]  Use-case brain storming meeting: discuss with and learn from Hendrik
 
-### **Admin:**
+**Admin:**
 
-### **Additional Reading：**
+- [ ] Get Typora official version
 
-### **Optional:**
+**Additional Reading：**
 
-- [ ]  Language Course: **German Speaking**, **(Book)**
+**Optional:**
+
+- [ ] Language Course: **German Speaking**, **(Book)**
 
 
 ## Daily Work Log - December 10, 2024
 
-### **Main Tasks:**
+**Main Tasks:**
 
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-- [ ]  Continue Prepare for Wednesday's team meeting:
-    - [X]  ADS-B kick-off meeting: Make slides for XAI use case
-    - [ ]  DTAC montag meeting: Prepare documents
-    - [X]  Smart-Pouch weekly meeting: Make slides for all the methodology part
+- [x]  Continue Preparing for Wednesday's team meeting:
+    - [x]  ADS-B kick-off meeting: Make slides for XAI use case
+    - [x]  DTAC montag meeting: Prepare documents **(Leipzig)**
+    - [x]  Smart-Pouch weekly meeting: Make slides for all the methodology part
     - [X]  Use-case brain storming meeting: read and understand the slides from Hendrik
 
-### **Admin:**
+**Admin:**
 
-- [ ]  Prepare documents for **Leipzig airport** application, **(admin)**
+- [x]  Prepare documents for **Leipzig airport** application, **(admin)**
 
-### **Additional Reading：**
+**Additional Reading：**
 
 - [X] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
 - [X] [Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
 
-### **Optional:**
+**Optional:**
 
-- [ ]  ~~Continue learning **Supply Chain Operations**~~, **(later)**
-- [ ]  ~~Get familiar with the **git commands**~~, **(later)**
-- [ ]  Language Course: **German Speaking**, **(Book)**
+- [X]  Continue learning **Supply Chain Operations**, **(later)**
+- [X]  Language Course: **German Speaking**, **(Book)**
 - [X]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
 - [X]  Organize the Mac, **(Folders: ~~Desktop, Downdloads,~~ Document, OneDrive)**
-- [ ]  ~~Set up **Copilot for Education**~~, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
+- [ ]  Set up **Copilot for Education**, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
+- [ ]  Get familiar with the **git commands**, **(later)**
 
 ## Daily Work Log - December 9, 2024
 
@@ -134,5 +136,4 @@
 - [X]  Prepare for tomorrow's team meeting
 - [X]  Reply to Julia about **confirmation letter**
 - [X]  Cancel **copilot** subscription
-
 
