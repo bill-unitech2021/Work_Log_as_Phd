@@ -14,11 +14,13 @@
 ## **Challenges**
 
 * Follow up with **'use case'** and **'test case'** construction
-* Seriously move forward with Paper_1's progress
+* Seriously move forward with **Paper_1's progress**
+* **ADS-B kick-off** meeting
+* Portfolio Project: set up a **Local Knowledge Base**
 
 ## **Next Steps**
 
-* Paper_1
+* **Paper_1**
 
 ---
 
