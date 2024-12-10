@@ -39,7 +39,7 @@
 
 ### **Additional Reading：**
 
-- [ ] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
+- [X] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
 - [X] [Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
 
 ### **Optional:**
@@ -48,9 +48,9 @@
 - [ ]  Organize everything on the Mac, **(optional)**
 - [ ]  Get familiar with the **git commands**, **(optional)**
 - [ ]  Language Course: **German Speaking**, **(Book)**
-- [ ]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
-- [ ]  Organize the Mac, **(Desktop, Document Folder, OneDrive)**
-- [ ]  Set up **Copilot for Education**, **(Github)**
+- [X]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
+- [X]  Organize the Mac, **(~~Desktop~~, Document Folder, OneDrive)**
+- [ ]  Set up **Copilot for Education**, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
 
 ## Daily Work Log - December 9, 2024
 
