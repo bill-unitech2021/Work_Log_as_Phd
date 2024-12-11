@@ -8,7 +8,7 @@
 
 * 2 coursera courses: Supply Chain Logistics, and Neural Network.
 * Set up **Project Tracker** for paper 1
-    - need to finish the project within this month.
+  - need to finish the project within this month.
 * Start daily work logging
 
 ## **Challenges**
@@ -21,8 +21,7 @@
 ## **Next Steps**
 
 * **Paper_1**
-
-
+* **Portfolio Projects**
 
 ## Daily Work Log - December 11, 2024
 
@@ -30,41 +29,40 @@
 
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  There are 4 meetings today:
-    - [ ]  ADS-B kick-off meeting: show the slides for XAI use case
-    - [ ]  DTAC montag meeting: submit documents
-    - [ ]  Smart-Pouch weekly meeting: show slides for the methodology workflow
-    - [ ]  Use-case brain storming meeting: discuss with and learn from Hendrik
+  - [ ]  ADS-B kick-off meeting: show the slides for XAI use case
+  - [ ]  DTAC montag meeting: submit documents
+  - [ ]  Smart-Pouch weekly meeting: show slides for the methodology workflow
+  - [ ]  Use-case brain storming meeting: discuss with and learn from Hendrik
 
 **Admin:**
 
-- [ ] Get Typora official version
+- [X]  Get a better MD editor
 
 **Additional Reading：**
 
 **Optional:**
 
-- [ ] Language Course: **German Speaking**, **(Book)**
-
+- [ ]  Language Course: **German Speaking**, **(Book)**
 
 ## Daily Work Log - December 10, 2024
 
 **Main Tasks:**
 
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-- [x]  Continue Preparing for Wednesday's team meeting:
-    - [x]  ADS-B kick-off meeting: Make slides for XAI use case
-    - [x]  DTAC montag meeting: Prepare documents **(Leipzig)**
-    - [x]  Smart-Pouch weekly meeting: Make slides for all the methodology part
-    - [X]  Use-case brain storming meeting: read and understand the slides from Hendrik
+- [X]  Continue Preparing for Wednesday's team meeting:
+  - [X]  ADS-B kick-off meeting: Make slides for XAI use case
+  - [X]  DTAC montag meeting: Prepare documents **(Leipzig)**
+  - [X]  Smart-Pouch weekly meeting: Make slides for all the methodology part
+  - [X]  Use-case brain storming meeting: read and understand the slides from Hendrik
 
 **Admin:**
 
-- [x]  Prepare documents for **Leipzig airport** application, **(admin)**
+- [X]  Prepare documents for **Leipzig airport** application, **(admin)**
 
 **Additional Reading：**
 
-- [X] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
-- [X] [Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
+- [X]  [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
+- [X]  [Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
 
 **Optional:**
 
@@ -79,10 +77,10 @@
 
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [X]  Prepare for Wednesday's team meeting
-    - [X]  ADS-B kick-off meeting
-    - [X]  DTAC montag meeting
-    - [X]  Smart-Pouch weekly meeting
-    - [X]  Use-case brain storming meeting
+  - [X]  ADS-B kick-off meeting
+  - [X]  DTAC montag meeting
+  - [X]  Smart-Pouch weekly meeting
+  - [X]  Use-case brain storming meeting
 - [X]  Language Course： **German Speaking**, **(Book)**
 - [X]  write to Hendrik to reschedule for our meeting, **(admin)**
 - [X]  continue learning **Supply Chain Operations**, **(coursera)**
@@ -119,11 +117,9 @@
 
 - [X]  Prepare for the **Smart-Pouch team meeting** in the morning
 - [X]  Do the Smart-Pouch team meeting in the afternoon, **(1pm)**
-- [X]  DTAC team gathering at Christmas Market, **(6.30pm)**, 
-    - I got drunk at the event with only one cup of wine (T_T).
+- [X]  DTAC team gathering at Christmas Market, **(6.30pm)**,
+  - I got drunk at the event with only one cup of wine (T_T).
 - [X]  Paper reading and Writing, work on **Paper_1**, **(daily)**
-
-
 
 ## Daily Work Log - December 3, 2024
 
@@ -136,4 +132,3 @@
 - [X]  Prepare for tomorrow's team meeting
 - [X]  Reply to Julia about **confirmation letter**
 - [X]  Cancel **copilot** subscription
-
