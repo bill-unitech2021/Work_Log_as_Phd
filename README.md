@@ -1,27 +1,49 @@
 # Jiahong's Work Log - December, 2024
 
+# Long Term Goals
+
+* Become an AI/XAI expert in air cargo industry
+
 ## **Key Accomplishments**
 
 * example
 
 ## **Tasks Completed**
 
-* 2 coursera courses: Supply Chain Logistics, and Neural Network.
+* Finished: 2 coursera courses:
+  * Supply Chain Logistics, and Neural Network.
 * Set up **Project Tracker** for paper 1
-  - need to finish the project within this month.
 * Start daily work logging
 
 ## **Challenges**
 
-* Follow up with **'use case'** and **'test case'** construction
-* Seriously move forward with **Paper_1's progress**
-* **ADS-B kick-off** meeting
-* Portfolio Project: set up a **Local Knowledge Base**
+* [ ]  Follow up with **'use case'** and **'test case'** construction
+* [ ]  Seriously move forward with **Paper_1's progress**
+* [X]  **ADS-B kick-off** meeting presentation
 
 ## **Next Steps**
 
 * **Paper_1**
 * **Portfolio Projects**
+
+  * Portfolio Project: set up a **Local Knowledge Base**
+  * Portfolio Project: set up a **XAI Project**
+
+## Daily Work Log - December 12, 2024
+
+**Main Tasks:**
+
+- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  Reviese the **Methodology Document** and send it to everyone
+- [ ]  Reviese the **Github Profile Page**
+
+**Admin:**
+
+* [ ]  keep preparing documents for **Leipzig Application**
+
+**Additional Reading：**
+
+**Optional:**
 
 ## Daily Work Log - December 11, 2024
 
@@ -42,13 +64,15 @@
 
 **Admin:**
 
-- [X]  Get a better MD editor
+- [X]  Get a better **MD** editor
+- [ ]  Submit **DAAD application**
 
 **Additional Reading：**
 
 **Optional:**
 
 - [ ]  Language Course: **German Speaking**, **(Book)**
+- [ ]  Continue learning **Supply Chain Operations**, **(Cousera)**
 
 ## Daily Work Log - December 10, 2024
 
