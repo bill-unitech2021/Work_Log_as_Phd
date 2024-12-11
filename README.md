@@ -59,8 +59,12 @@
     - Follow up: make a diagram for the workflow.
     - Follow up: Get clearer idea about the server.
     - Follow up: Handover Work with Hendrik.
-  - [ ]  Smart-Pouch weekly meeting: show slides for the methodology workflow
-  - [ ]  Use-case brain storming meeting: discuss with and learn from Hendrik
+  - [X]  Smart-Pouch weekly meeting: show slides for the methodology workflow
+
+    - [ ]  send everybody the method ppt
+  - [X]  Use-case brain storming meeting: discuss with and learn from Hendrik
+
+    - [ ]  make the diagram - sankey chart
 
 **Admin:**
 
