@@ -30,10 +30,11 @@
 - [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
 - [ ]  There are 4 meetings today:
   - [ ]  ADS-B kick-off meeting: show the slides for XAI use case
-  - [ ]  DTAC montag meeting: submit documents
+  - [X]  DTAC montag meeting: submit documents
 
     - Follow up: make a diagram for the work flow
     - Get clearer idea about the server
+    - Handover Work with Hendrik
   - [ ]  Smart-Pouch weekly meeting: show slides for the methodology workflow
   - [ ]  Use-case brain storming meeting: discuss with and learn from Hendrik
 
