@@ -33,13 +33,15 @@
 
 **Main Tasks:**
 
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [ ]  Paper reading and Writing & work on **Paper_1**, **(daily)**
 - [ ]  Reviese the **Methodology Document** and send it to everyone
 - [ ]  Reviese the **Github Profile Page**
 
 **Admin:**
 
-* [ ]  keep preparing documents for **Leipzig Application**
+- [ ]  keep preparing documents for **Leipzig Application**
+- [ ]  Set up **Copilot for Education**, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
+- [ ]  Submit **DAAD application**
 
 **Additional Reading：**
 
@@ -49,7 +51,7 @@
 
 **Main Tasks:**
 
-- [ ]  Paper reading and Writing, work on **Paper_1**, **(daily)**
+- [X]  Paper reading and Writing & work on **Paper_1**, **(daily)**
 - [ ]  There are 4 meetings today:
   - [X]  ADS-B kick-off meeting: show the slides for XAI use case
 
@@ -69,7 +71,6 @@
 **Admin:**
 
 - [X]  Get a better **MD** editor
-- [ ]  Submit **DAAD application**
 
 **Additional Reading：**
 
@@ -104,7 +105,6 @@
 - [X]  Language Course: **German Speaking**, **(Book)**
 - [X]  **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
 - [X]  Organize the Mac, **(Folders: ~~Desktop, Downdloads,~~ Document, OneDrive)**
-- [ ]  Set up **Copilot for Education**, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
 - [ ]  Get familiar with the **git commands**, **(later)**
 
 ## Daily Work Log - December 9, 2024
