@@ -1,6 +1,6 @@
 # Jiahong's Work Log - December, 2024
 
-# Long Term Goals
+## Long Term Goals
 
 * Become an AI/XAI expert in air cargo industry
 
