@@ -29,7 +29,7 @@
   * Portfolio Project: set up a **Local Knowledge Base**
   * Portfolio Project: set up a **XAI Project**
 
-## Daily Work Log - December 12, 2024
+## Daily Work Log - December 13, 2024
 
 **Main Tasks:**
 
@@ -44,6 +44,7 @@
 - [ ]  keep preparing documents for **Leipzig Application**
 - [ ]  Set up **Copilot for Education**, [Github](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)
 - [ ]  Submit **DAAD application**
+- [ ]  Connect with People
 
 **Additional Reading：**
 
@@ -51,7 +52,7 @@
 
 **Optional:**
 
-- [ ]  Continue learning **Supply Chain Operations**, **(Cousera)**
+- [X]  Continue learning **Supply Chain Operations**, **(Cousera)**
 - [ ]  Language Course: **German Speaking**, **(Book)**
 - [ ]  LLM course: [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
 
