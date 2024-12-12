@@ -52,8 +52,30 @@
 
 **Optional:**
 
-- [X]  Continue learning **Supply Chain Operations**, **(Cousera)**
+- [X]  Continue learning **Supply Chain Operations**, **(Lean Inventory)**
 - [ ]  Language Course: **German Speaking**, **(Book)**
+- [ ]  LLM course: [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
+
+## Daily Work Log - December 12, 2024
+
+**Main Tasks:**
+
+- [X]  Paper reading and Writing & work on **Paper_1**, **(daily)**
+- [X]  Reviese the **Methodology Document** and **send it to everyone**
+- [X]  Reviese the **Github Profile Page**
+- [X]  Make the **Workflow** diagram - sankey chart
+
+**Admin:**
+
+- [X]  keep preparing documents for **Leipzig Application**
+
+
+**Additional Reading：**
+
+**Optional:**
+
+- [X]  Continue learning **Supply Chain Operations**, **(the theory of constrains)**
+- [X]  Language Course: **German Speaking**, **(Book)**
 - [ ]  LLM course: [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
 
 ## Daily Work Log - December 11, 2024
