@@ -2,7 +2,7 @@
 
 ## Long Term Goals
 
-* Become an AI/XAI expert in air cargo industry
+* Become an AI/XAI expert in Air Cargo Industry
 
 ## **Key Accomplishments**
 
@@ -13,7 +13,7 @@
 * Finished: 2 coursera courses:
   * Supply Chain Logistics, and Neural Network.
 * Set up **Project Tracker** for paper 1
-* Start daily work logging
+* Started daily work logging
 
 ## **Challenges**
 
@@ -34,8 +34,10 @@
 **Main Tasks:**
 
 - [ ]  Paper reading and Writing & work on **Paper_1**, **(daily)**
-- [ ]  Reviese the **Methodology Document** and send it to everyone
+- [ ]  Submit **DAAD application**
+- [ ]  Reviese the **Methodology Document** and **send it to everyone**
 - [ ]  Reviese the **Github Profile Page**
+- [ ]  Make the **Workflow** diagram - sankey chart
 
 **Admin:**
 
@@ -45,14 +47,20 @@
 
 **Additional Reading：**
 
+* [ ]  Anything LLM learning: [Link_0](https://www.youtube.com/watch?v=77990wI3LZk), [link_1](https://www.youtube.com/watch?v=ZV6i2lAtnLQ), [link_2](https://www.youtube.com/watch?v=nMORNaE_qe4)
+
 **Optional:**
+
+- [ ]  Continue learning **Supply Chain Operations**, **(Cousera)**
+- [ ]  Language Course: **German Speaking**, **(Book)**
+- [ ]  LLM course: [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
 
 ## Daily Work Log - December 11, 2024
 
 **Main Tasks:**
 
 - [X]  Paper reading and Writing & work on **Paper_1**, **(daily)**
-- [ ]  There are 4 meetings today:
+- [X]  There are 4 meetings today:
   - [X]  ADS-B kick-off meeting: show the slides for XAI use case
 
     - Follow up: use case, something to support the use case, maybe talk to somebody.
@@ -63,10 +71,10 @@
     - Follow up: Handover Work with Hendrik.
   - [X]  Smart-Pouch weekly meeting: show slides for the methodology workflow
 
-    - [ ]  send everybody the method ppt
+    - send everybody the method ppt
   - [X]  Use-case brain storming meeting: discuss with and learn from Hendrik
 
-    - [ ]  make the diagram - sankey chart
+    - make the diagram - sankey chart
 
 **Admin:**
 
@@ -76,8 +84,8 @@
 
 **Optional:**
 
-- [ ]  Language Course: **German Speaking**, **(Book)**
-- [ ]  Continue learning **Supply Chain Operations**, **(Cousera)**
+- [X]  Language Course: **German Speaking**, **(Book)**
+- [X]  Continue learning **Supply Chain Operations**, **(Cousera)**
 
 ## Daily Work Log - December 10, 2024
 
