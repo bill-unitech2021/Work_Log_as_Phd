@@ -19,7 +19,7 @@
 
 ## **Challenges**
 
-* [ ] Follow up with **'use case'** and **'test case'** construction
+* [x] Follow up with **'use case'** and **'test case'** construction
 * [ ] Seriously move forward with **Paper_1's progress**
 * [x] **ADS-B kick-off** meeting presentation
 
@@ -49,13 +49,13 @@
 
 **Additional Reading：**
 
-* [ ] Anything LLM learning: [Link_0](https://www.youtube.com/watch?v=77990wI3LZk), [link_1](https://www.youtube.com/watch?v=ZV6i2lAtnLQ), [link_2](https://www.youtube.com/watch?v=nMORNaE_qe4)
+* [ ] Anything LLM learning
 
 **Optional:**
 
 - [x] Continue learning **Supply Chain Operations**, **(Lean Inventory)**
 - [ ] Language Course: **German Speaking**, **(Book)**
-- [ ] LLM course: [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
+- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
 
 ## Daily Work Log - December 12, 2024
 
@@ -76,7 +76,7 @@
 
 - [x] Continue learning **Supply Chain Operations**, **(the theory of constrains)**
 - [x] Language Course: **German Speaking**, **(Book)**
-- [ ] LLM course: [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
+- [x] LLM course: **Ollama Course – Build AI Apps Locally**
 
 ## Daily Work Log - December 11, 2024
 
