@@ -30,6 +30,8 @@
   - Portfolio Project: set up a **Local Knowledge Base**
   - Portfolio Project: set up a **XAI Project**
 
+## Daily Work Log - December 14, 2024, **Saturday**
+
 ## Daily Work Log - December 13, 2024
 
 **Main Tasks:**
@@ -127,14 +129,14 @@
 
 **Additional Reading：**
 
-- [x] [中国前景展望：中国市场能否顺利度过2025年？](https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/china-outlook-can-china-make-it-in-2025)
-- [x] [Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
+- [x] 中国前景展望：中国市场能否顺利度过2025年？
+- [x] Basics of Algorithmic Trading: Concepts and Examples
 
 **Optional:**
 
 - [x] Continue learning **Supply Chain Operations**, **(later)**
 - [x] Language Course: **German Speaking**, **(Book)**
-- [x] **Cursor Editor** seems to be cool, learn more about it: [Cursor Composer](https://www.youtube.com/watch?v=nV053fD3mJI)
+- [x] **Cursor Editor** seems to be cool, learn more about it: Cursor Composer
 - [x] Organize the Mac, **(Folders: ~~Desktop, Downdloads,~~ Document, OneDrive)**
 - [ ] Get familiar with the **git commands**, **(later)**
 
@@ -149,7 +151,7 @@
 - [x] Language Course： **German Speaking**, **(Book)**
 - [x] write to Hendrik to reschedule for our meeting, **(admin)**
 - [x] continue learning **Supply Chain Operations**, **(coursera)**
-- [x] Get familiar with the **[Cursor Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4&t=29s)**, **(optional)**
+- [x] Get familiar with the Cursor Editor, **(optional)**
 
 ## Daily Work Log - December 8, 2024, **[Sunday]**
 
