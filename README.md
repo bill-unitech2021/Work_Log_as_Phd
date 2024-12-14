@@ -29,14 +29,13 @@
 * **Portfolio Projects**
   - Portfolio Project: set up a **Local Knowledge Base**
   - Portfolio Project: set up a **XAI Project**
+  - Portfolio Project: set up a **Data Visualization**
 
 ## Daily Work Log - December 14, 2024, **Saturday**
 
-## Daily Work Log - December 13, 2024
-
 **Main Tasks:**
 
-- [ ] Paper reading and Writing & work on **Paper_1**, **(daily)**
+- [x] Paper reading and Writing & work on **Paper_1**, **(daily)**
 - [ ] Submit **DAAD application**
 - [ ] Reviese the **Methodology Document** and **send it to everyone**
 - [ ] Reviese the **Github Profile Page**
@@ -56,8 +55,30 @@
 **Optional:**
 
 - [x] Continue learning **Supply Chain Operations**, **(Lean Inventory)**
-- [ ] Language Course: **German Speaking**, **(Book)**
+- [x] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
+
+## Daily Work Log - December 13, 2024
+
+**Main Tasks:**
+
+- [x] Paper reading and Writing & work on **Paper_1**, **(daily)**
+- [x] Submit **DAAD application**
+- [x] Reviese the **Methodology Document** and **send it to everyone**
+- [x] Reviese the **Github Profile Page**
+- [x] Make the **Workflow** diagram - sankey chart
+
+**Admin:**
+
+- [x] keep preparing documents for **Leipzig Application**
+- [x] Submit **DAAD application**
+
+**Additional Reading：**
+
+**Optional:**
+
+- [x] Continue learning **Supply Chain Operations**, **(Lean Inventory)**
+- [x] Language Course: **German Speaking**
 
 ## Daily Work Log - December 12, 2024
 
