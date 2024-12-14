@@ -42,19 +42,17 @@
 
 **Admin:**
 
-- [ ] keep preparing documents for **Leipzig Application**
+- [ ] Preparing documents for **Leipzig Application**
 - [ ] Set up **Copilot for Education**
-- [ ] Submit **DAAD application**
 - [ ] Connect with People
 
-**Additional Reading/Learning：**
+**Additional Reading/Learning:**
 
 - [x] Anything LLM learning
 - [ ] check out **ToDesk remote control app**
-
-- [x] Continue learning **Supply Chain Operations**, **(Lean Inventory)**
+- [x] Continue learning **Supply Chain Operations**
 - [x] Language Course: **German Speaking**
-- [ ] LLM course: **Ollama Course – Build AI Apps Locally**; **Anything LLM**
+- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
 
 ## Daily Work Log - December 13, 2024
 
