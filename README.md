@@ -31,7 +31,7 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
-## Daily Work Log - December 14, 2024, **Saturday**
+## Daily Work Log - December 14 & 15, 2024, **Saturday & Sunday**
 
 **Main Tasks:**
 
@@ -39,17 +39,15 @@
 - [ ] Submit **DAAD application**
 - [ ] Reviese the **Methodology Document** and **send it to everyone**
 - [ ] Make the **Workflow** diagram - sankey chart
+- [ ] Preparing documents for **Leipzig Application**
 
 **Admin:**
 
-- [ ] Preparing documents for **Leipzig Application**
-- [ ] Set up **Copilot for Education**
 - [ ] Connect with People
 
 **Additional Reading/Learning:**
 
 - [x] Anything LLM learning
-- [ ] check out **ToDesk remote control app**
 - [x] Continue learning **Supply Chain Operations**
 - [x] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
