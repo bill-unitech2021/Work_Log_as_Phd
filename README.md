@@ -35,6 +35,8 @@
 
 **Main Tasks:**
 - [ ] Make the **Workflow** diagram - sankey chart
+- [ ] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
+- [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
 
 **Admin:**
 - [ ] Connect with People
