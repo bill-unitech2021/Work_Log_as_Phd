@@ -31,7 +31,7 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
-## Daily Work Log - December 16, 2024, **Monday**
+## Daily Work Log - December 16, 2024 - **Monday**
 
 **Main Tasks:**
 - [ ] Make the **Workflow** diagram - sankey chart
@@ -48,13 +48,13 @@
 - [ ] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
 
-## Daily Work Log - December 14 & 15, 2024, **Saturday & Sunday**
+## Daily Work Log - December 14 & 15, 2024 - **Saturday & Sunday**
 
 **Main Tasks:**
 - [x] Paper reading and Writing & work on **Paper_1**, **(daily)**
-- [ ] Submit **DAAD application**
+- [X] Submit **DAAD application**
 - [X] Reviese the **Methodology Document** and **send it to everyone**
-- [ ] Preparing documents for **Leipzig Application**
+- [X] Preparing documents for **Leipzig Application**
 
 **Admin:**
 - [X] Connect with People
@@ -63,8 +63,6 @@
 - [x] Anything LLM learning
 - [x] Continue learning **Supply Chain Operations**
 - [x] Language Course: **German Speaking**
-- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
-- [ ] Initialize: **Chrome Remote Desktop**
 
 ## Daily Work Log - December 13, 2024
 
