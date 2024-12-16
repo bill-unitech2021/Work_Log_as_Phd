@@ -41,9 +41,9 @@
 - [ ] Initialize: **Chrome Remote Desktop**
 
 **Additional Reading/Learning:**
-- [x] Anything LLM learning
-- [x] Continue learning **Supply Chain Operations**
-- [x] Language Course: **German Speaking**
+- [ ] Anything LLM learning
+- [ ] Continue learning **Supply Chain Operations**
+- [ ] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
 
 ## Daily Work Log - December 14 & 15, 2024, **Saturday & Sunday**
