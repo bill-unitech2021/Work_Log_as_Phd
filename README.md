@@ -31,22 +31,22 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
-## Daily Work Log - December 16, 2024 - **Monday**
+## Daily Work Log - December 16 & 17, 2024 - **Monday & Tuesday**
 
 **Main Tasks:**
-- [ ] Make the **Workflow** diagram - sankey chart
-- [ ] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
-- [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
+- [X] Make the **Workflow** diagram - sankey chart
+- [X] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
+- [X] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
 
 **Admin:**
-- [ ] Connect with People
-- [ ] Initialize: **Chrome Remote Desktop**
+- [X] Connect with People
+- [X] Initialize: **Chrome Remote Desktop**
 
 **Additional Reading/Learning:**
-- [ ] Anything LLM learning
-- [ ] Continue learning **Supply Chain Operations**
-- [ ] Language Course: **German Speaking**
-- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
+- [X] Anything LLM learning
+- [X] Continue learning **Supply Chain Operations**
+- [X] Language Course: **German Speaking**
+- [X] LLM course: **Ollama Course – Build AI Apps Locally**
 
 ## Daily Work Log - December 14 & 15, 2024 - **Saturday & Sunday**
 
