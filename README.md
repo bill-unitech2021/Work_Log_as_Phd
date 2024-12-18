@@ -31,23 +31,42 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
-## Daily Work Log - December 18, 2024 - **Wednesday**
+## Daily Work Log - December 19, 2024 - **Wednesday**
 
 **Main Tasks:**
-- [ ] **AP5 Smart-Pouch** weekly meeting
-- [ ] **Data to Image** method justification
+- [ ] AP5 weekly meeting task: **Plan data collection based on classified activities and business applications**
+- [ ] Paper reading and Writing & work on **Paper_1**, **"Introduction"**
 - [ ] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
 - [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
 
 **Admin:**
 - [ ] Connect with People
-- [ ] Initialize: **Chrome Remote Desktop**
+- [X] Initialize: **Chrome Remote Desktop**
 
 **Additional Reading/Learning:**
-- [ ] Anything LLM learning and **Project Building**
+- [ ] set up AnythingLLM server for language training
 - [ ] Continue learning **Supply Chain Planning**
 - [ ] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
+
+
+## Daily Work Log - December 18, 2024 - **Wednesday**
+
+**Main Tasks:**
+- [X] **AP5 Smart-Pouch** weekly meeting
+- [X] **Data to Image** method justification
+- [X] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
+- [X] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
+
+**Admin:**
+- [ ] Connect with People
+- [X] Initialize: **Chrome Remote Desktop**
+
+**Additional Reading/Learning:**
+- [X] Anything LLM learning and **Project Building**
+- [X] Continue learning **Supply Chain Planning**
+- [X] Language Course: **German Speaking**
+- [X] LLM course: **Ollama Course – Build AI Apps Locally**
 
 ## Daily Work Log - December 16 & 17, 2024 - **Monday & Tuesday**
 
