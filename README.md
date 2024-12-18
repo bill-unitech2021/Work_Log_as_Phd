@@ -35,6 +35,7 @@
 
 **Main Tasks:**
 - [ ] **AP5 Smart-Pouch** weekly meeting
+- [ ] **Data to Image** method justification
 - [ ] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
 - [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
 
