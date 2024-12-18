@@ -31,6 +31,23 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
+## Daily Work Log - December 18, 2024 - **Wednesday**
+
+**Main Tasks:**
+- [ ] **AP5 Smart-Pouch** weekly meeting
+- [ ] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
+- [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
+
+**Admin:**
+- [ ] Connect with People
+- [ ] Initialize: **Chrome Remote Desktop**
+
+**Additional Reading/Learning:**
+- [ ] Anything LLM learning and **Project Building**
+- [ ] Continue learning **Supply Chain Planning**
+- [ ] Language Course: **German Speaking**
+- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
+
 ## Daily Work Log - December 16 & 17, 2024 - **Monday & Tuesday**
 
 **Main Tasks:**
