@@ -40,7 +40,7 @@
 - [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
 
 **Admin:**
-- [ ] Connect with People
+- [X] Connect with People
 - [X] Initialize: **Chrome Remote Desktop**
 
 **Additional Reading/Learning:**
