@@ -45,16 +45,15 @@
   - [ ] Data
 
 **Paper_1 Coding tasks:**
-- [ ] **"Methodology"
+- [ ] **Methodology**
   - [ ] Data Preprocessing
 
 **Admin:**
-- [X] Connect with People
-- [X] Initialize: **Chrome Remote Desktop**
+- [ ] Connect with People
 
 **Additional Reading/Learning:**
-- [ ] set up AnythingLLM server for language training
 - [ ] Continue learning **Supply Chain Planning**
+- [ ] Continue learning **CNN**
 - [ ] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
 - [ ] get familiar with git colaboratioin. 
@@ -65,22 +64,22 @@
 ## Daily Work Log - December 19, 2024 - **Thursday**
 
 **Main Tasks:**
-- [ ] AP5 weekly meeting task: **Plan data collection based on classified activities and business applications**
-- [ ] Paper reading and Writing & work on **Paper_1**, **"Introduction"**
-- [ ] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
-- [ ] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
+- [X] AP5 weekly meeting task: **Plan data collection based on classified activities and business applications**
+- [X] Paper reading and Writing & work on **Paper_1**, **"Introduction"**
+- [X] Paper reading and Writing & work on **Paper_1**, **"Methodology"**
+- [X] Project Experiments & work on **Smart_Pouch model**, **"Experiments"**
 
 **Admin:**
 - [X] Connect with People
 - [X] Initialize: **Chrome Remote Desktop**
 
 **Additional Reading/Learning:**
-- [ ] set up AnythingLLM server for language training
-- [ ] Continue learning **Supply Chain Planning**
-- [ ] Language Course: **German Speaking**
-- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
-- [ ] get familiar with git colaboratioin. 
-- [ ] CNN programming assignment.
+- [X] set up AnythingLLM server for language training
+- [X] Continue learning **Supply Chain Planning**
+- [X] Language Course: **German Speaking**
+- [X] LLM course: **Ollama Course – Build AI Apps Locally**
+- [X] get familiar with git colaboratioin. 
+- [X] CNN programming assignment.
 
 
 ## Daily Work Log - December 18, 2024 - **Wednesday**
