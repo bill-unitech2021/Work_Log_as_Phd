@@ -31,7 +31,7 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
-## Daily Work Log - December 19, 2024 - **Wednesday**
+## Daily Work Log - December 19, 2024 - **Thursday**
 
 **Main Tasks:**
 - [ ] AP5 weekly meeting task: **Plan data collection based on classified activities and business applications**
@@ -48,6 +48,8 @@
 - [ ] Continue learning **Supply Chain Planning**
 - [ ] Language Course: **German Speaking**
 - [ ] LLM course: **Ollama Course – Build AI Apps Locally**
+- [ ] get familiar with git colaboratioin. 
+- [ ] CNN programming assignment.
 
 
 ## Daily Work Log - December 18, 2024 - **Wednesday**
