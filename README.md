@@ -32,9 +32,10 @@
   - Portfolio Project: set up a **Data Visualization**
 
 
-## Daily Work Log - December 20, 2024 - **Friday**
+## Daily Work Log - December 20,21,22, 2024 - **Friday, Saturday, Sunday**
 
 **Main Tasks:**
+- [ ] Reply to Anne's email
 - [ ] AP5 weekly meeting task: 
   - **Plan data collection based on classified activities and business applications**
 
