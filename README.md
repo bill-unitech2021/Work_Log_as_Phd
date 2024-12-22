@@ -32,10 +32,12 @@
   - Portfolio Project: set up a **Data Visualization**
 
 
-## Daily Work Log - December 20,21,22, 2024 - **Friday, Saturday, Sunday**
+## Daily Work Log - December 20 to 24, 2024 - **5 days**
 
 **Main Tasks:**
 - [ ] Reply to Anne's email
+- [ ] Paper reading on the topic of **Tracking and Tracing System**
+- [ ] Paper reading on the topic of **IoT in air cargo**
 - [ ] AP5 weekly meeting task: 
   - **Plan data collection based on classified activities and business applications**
 
