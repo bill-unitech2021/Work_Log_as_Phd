@@ -34,6 +34,24 @@
 
 ## Daily Work Log - December 20 to 24, 2024 - **5 days**
 
+**Paper_1 Writing tasks:**
+- [ ] **Introduction**
+  - [ ] Paragraph 1
+  - [ ] Paragraph 2
+  - [ ] Paragraph 3
+- [ ] **Methodology**
+  - [ ] Data Collection
+  - [ ] Data Preprocessing
+  - [ ] Data EDA
+
+**Paper_1 Coding tasks:**
+- [ ] **Methodology**
+  - [ ] Data Preprocessing
+
+
+
+## Daily Work Log - December 20 to 24, 2024 - **5 days**
+
 **Main Tasks:**
 - [ ] Reply to Anne's email
 - [ ] Paper reading on the topic of **Tracking and Tracing System**
@@ -41,18 +59,8 @@
 - [ ] AP5 weekly meeting task: 
   - **Plan data collection based on classified activities and business applications**
 
-**Paper_1 Writing tasks:**
-- [ ] **Introduction**
-  - [ ] Paragraph 1
-- [ ] **Methodology**
-  - [ ] Data
-
-**Paper_1 Coding tasks:**
-- [ ] **Methodology**
-  - [ ] Data Preprocessing
-
 **Admin:**
-- [ ] Connect with People
+- [X] Connect with People
 
 **Additional Reading/Learning:**
 - [ ] Continue learning **Supply Chain Planning**
