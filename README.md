@@ -32,7 +32,7 @@
   - Portfolio Project: set up a **Data Visualization**
 
 
-## Daily Work Log - December 25, 2024 - **Wednesday**
+## Daily Work Log - December 26, 2024 - **Wednesday**
 
 **Paper_1 Writing tasks:**
 - [ ] **Introduction**
@@ -50,7 +50,7 @@
 - [ ] AP5 weekly meeting task: 
   - [ ] **Plan data collection based on classified activities and business applications**
 
-## Daily Work Log - December 20 to 24, 2024 - **5 days**
+## Daily Work Log - December 20 to 25, 2024 - **6 days**
 
 **Main Tasks:**
 - [X] Reply to Anne's email
