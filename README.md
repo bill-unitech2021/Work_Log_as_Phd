@@ -6,7 +6,7 @@
 
 ## **Key Accomplishments**
 
-* example
+* I did my first Self-Haircut on Christmas Eve, haha!
 
 ## **Tasks Completed**
 
