@@ -32,7 +32,7 @@
   - Portfolio Project: set up a **Data Visualization**
 
 
-## Daily Work Log - December 26, 2024 - **Wednesday**
+## Daily Work Log - December 26 to 31, 2024 - **6 days**
 
 **Paper_1 Writing tasks:**
 - [ ] **Introduction**
