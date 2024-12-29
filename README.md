@@ -35,10 +35,10 @@
 ## Daily Work Log - December 26 to 31, 2024 - **6 days**
 
 **Paper_1 Writing tasks:**
-- [ ] **Introduction**
-  - [ ] Paragraph 1
-  - [ ] Paragraph 2
-  - [ ] Paragraph 3
+- [X] **Introduction**
+  - [X] Paragraph 1
+  - [X] Paragraph 2
+  - [X] Paragraph 3
 - [ ] **Methodology**
   - [ ] Data Collection
   - [ ] Data Preprocessing
