@@ -39,10 +39,10 @@
   - [X] Paragraph 1
   - [X] Paragraph 2
   - [X] Paragraph 3
-- [ ] **Methodology**
-  - [ ] Data Collection
-  - [ ] Data Preprocessing
-  - [ ] Data EDA
+- [X] **Methodology**
+  - [X] Data Collection
+  - [X] Data Preprocessing
+  - [X] Data EDA
 
 **Paper_1 Coding tasks:**
 - [ ] **Methodology**
