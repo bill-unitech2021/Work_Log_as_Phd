@@ -20,7 +20,7 @@
 ## **Challenges**
 
 * [x] Follow up with **'use case'** and **'test case'** construction
-* [ ] Seriously move forward with **Paper_1's progress**
+* [X] Seriously move forward with **Paper_1's progress**
 * [x] **ADS-B kick-off** meeting presentation
 
 ## **Next Steps**
@@ -45,30 +45,30 @@
   - [X] Data EDA
 
 **Paper_1 Coding tasks:**
-- [ ] **Methodology**
-  - [ ] Data Preprocessing
-- [ ] AP5 weekly meeting task: 
-  - [ ] **Plan data collection based on classified activities and business applications**
+- [X] **Methodology**
+  - [X] Data Preprocessing
+- [X] AP5 weekly meeting task: 
+  - [X] **Plan data collection based on classified activities and business applications**
 
 ## Daily Work Log - December 20 to 25, 2024 - **6 days**
 
 **Main Tasks:**
 - [X] Reply to Anne's email
-- [ ] Paper reading on the topic of **Tracking and Tracing System**
-- [ ] Paper reading on the topic of **IoT in air cargo**
-- [ ] AP5 weekly meeting task: 
-  - [ ] **Plan data collection based on classified activities and business applications**
+- [X] Paper reading on the topic of **Tracking and Tracing System**
+- [X] Paper reading on the topic of **IoT in air cargo**
+- [X] AP5 weekly meeting task: 
+  - [X] **Plan data collection based on classified activities and business applications**
 
 **Admin:**
 - [X] Connect with People
 
 **Additional Reading/Learning:**
-- [ ] Continue learning **Supply Chain Planning**
-- [ ] Continue learning **CNN**
-- [ ] Language Course: **German Speaking**
-- [ ] LLM course: **Ollama Course – Build AI Apps Locally**
-- [ ] get familiar with git colaboratioin. 
-- [ ] CNN programming assignment.
+- [X] Continue learning **Supply Chain Planning**
+- [X] Continue learning **CNN**
+- [X] Language Course: **German Speaking**
+- [X] LLM course: **Ollama Course – Build AI Apps Locally**
+- [X] get familiar with git colaboratioin. 
+- [X] CNN programming assignment.
 
 
 
