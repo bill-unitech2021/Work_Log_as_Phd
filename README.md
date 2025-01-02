@@ -16,7 +16,7 @@
 
 * [ ] Follow up with **'use case'** and **'test case'** construction
 * [ ] Finish with **Paper_1's progress**
-* [x] **ADS-Bf** use cases
+* [ ] **ADS-Bf** use cases
 
 ## **Next Steps**
 
