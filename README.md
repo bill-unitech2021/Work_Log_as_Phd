@@ -33,7 +33,11 @@
   - Introduction
   - Literature Review
   - Data Acquisition
-  - Methodology
+  - [X] Methodology
+    - [X] CNN
+    - [X] LSTM
+    - [X] CNN+LSTM
+    - [X] SHAP
   - Results and Discussion
   - Conclusion
 
