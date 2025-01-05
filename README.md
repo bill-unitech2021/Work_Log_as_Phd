@@ -39,7 +39,11 @@
     - [X] CNN+LSTM
     - [X] SHAP
   - Results and Discussion
-    - [X] experiments
+    - [X] Performance
+    - [X] Shap
+    - [X] Performance after Shap
+    - [X] 
+
   - Conclusion
 
 **Paper_1 experiments tasks:**
