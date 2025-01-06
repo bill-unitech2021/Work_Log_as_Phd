@@ -27,6 +27,9 @@
   - Portfolio Project: set up a **Data Visualization**
 
 
+## Daily Work Log - January 6 to 7, 2024 - **2 days**
+
+
 ## Daily Work Log - January 1 to 5, 2024 - **5 days**
 
 **Paper_1 Writing tasks:**
