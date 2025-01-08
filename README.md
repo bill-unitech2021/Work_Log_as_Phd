@@ -26,9 +26,17 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
+## Daily Work Log - January 6 to 7, 2024 - **2 days**
+
+  - [X] DTAC AP5 smartPouch weekly meeting
+  - [X] Meeting with Bernhard on Terminology and Timeline
+  - [ ] Paper_1 Experiments
+  - [ ] Paper_1 Writing
+  - [ ] German Language Learning
 
 ## Daily Work Log - January 6 to 7, 2024 - **2 days**
 
+  - [X] Many Many Things...
 
 ## Daily Work Log - January 1 to 5, 2024 - **5 days**
 
@@ -45,8 +53,6 @@
     - [X] Performance
     - [X] Shap
     - [X] Performance after Shap
-    - [X] 
-
   - Conclusion
 
 **Paper_1 experiments tasks:**
