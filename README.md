@@ -29,12 +29,12 @@
 
 ## Daily Work Log - January 11 to 13, 2024 - **3 days**
 
-  - [ ] Meeting with Bernhard on Terminology and Timeline
-  - [ ] Paper_1 Experiments
-  - [ ] Paper_1 Writing
-  - [ ] German Language Learning
-  - [ ] Prepare for next week
-  - [ ] Draw a plan for DATA SCIENTIST GRAND PLAN
+  - [X] Meeting with Bernhard on Terminology and Timeline
+  - [X] Paper_1 Experiments
+  - [X] Paper_1 Writing
+  - [X] German Language Learning
+  - [X] Prepare for next week
+  - [X] Draw a plan for DATA SCIENTIST GRAND PLAN
 
 ## Daily Work Log - January 8 to 10 2024 - **3 days**
 
