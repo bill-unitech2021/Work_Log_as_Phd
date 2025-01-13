@@ -26,7 +26,7 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
-## Daily Work Log - January 11 to 13, 2024 - **3 days**
+## Daily Work Log - January 13, 2024 - **3 days**
 
   - [X] Build an Actionable Plan for Agent_001 the Teaching Assistant
   - [X] Paper_1 Experiments
@@ -36,7 +36,7 @@
   - [X] Send and reply emails from work
   - [X] ATRS application: submit Abstract
 
-## Daily Work Log - January 11 to 13, 2024 - **3 days**
+## Daily Work Log - January 11 to 12, 2024 - **2 days**
 
   - [X] Meeting with Bernhard on Terminology and Timeline
   - [X] Paper_1 Experiments
