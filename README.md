@@ -26,6 +26,13 @@
   - Portfolio Project: set up a **XAI Project**
   - Portfolio Project: set up a **Data Visualization**
 
+## Daily Work Log - January 11 to 13, 2024 - **3 days**
+
+  - [X] Build an Actionable Plan for Agent_001 the Teaching Assistant
+  - [X] Paper_1 Experiments
+  - [X] Paper_1 Writing
+  - [X] German Language Learning - expand vocabulary
+  - [X] Prepare for next DTAC AP5 meeting
 
 ## Daily Work Log - January 11 to 13, 2024 - **3 days**
 
