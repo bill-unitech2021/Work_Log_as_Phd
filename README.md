@@ -33,6 +33,8 @@
   - [X] Paper_1 Writing
   - [X] German Language Learning - expand vocabulary
   - [X] Prepare for next DTAC AP5 meeting
+  - [X] Send and reply emails from work
+  - [X] ATRS application: submit Abstract
 
 ## Daily Work Log - January 11 to 13, 2024 - **3 days**
 
