@@ -15,7 +15,6 @@
 ## **Challenges**
 
 * [ ] Finish  **Paper_1**
-* [ ] **ADS-Bf** use cases
 
 ## **Next Steps**
 
