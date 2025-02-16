@@ -24,7 +24,13 @@
   - Portfolio Project: set up a **AiCargo-Edu**
   - Portfolio Project: set up a **Github repo rebuild**
 
-## Feb 12 to 14, 2025 - **3 days**
+## Feb 16, 2025 - **1 day**
+
+  - [X] Linkedin Post + 修改主页
+  - [X] Github repo reorganization
+  - [X] German: 语法 + 单词 （A2）
+
+## Feb 14 to 15, 2025 - **3 days**
 
   - [X] Stratigically Plan Everything in 2025
   - [X] Setup my **Strategy Book**
